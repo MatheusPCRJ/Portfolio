@@ -1,0 +1,23 @@
+.secao1__introducao1 {
+  font-size: 3rem;
+  color: #cacaca;
+  text-shadow: 29px 10px 7px rgba(0, 0, 0, 0.4);
+  font-weight: 800;
+  font-family: Open Sans;
+  margin-bottom: 5.75rem;
+}
+
+.secao1__introducao2 {
+  font-size: 2rem;
+  color: #cacaca;
+  font-weight: 700;
+  font-family: Open Sans;
+}
+
+.secao1__introducao3 {
+  font-size: 1.8rem;
+  color: #cacaca;
+  font-weight: 700;
+  font-family: Open Sans;
+  margin-top: 0.5rem;
+}
