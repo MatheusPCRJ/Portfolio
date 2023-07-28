@@ -1,0 +1,12 @@
+.nav__titulos {
+    list-style: none;
+    padding-right: 1rem;
+    font-size: 1.550rem;
+    color: #fff;
+    text-transform: uppercase;
+    transition: .5s;
+}
+.nav__titulos:hover {
+    color: #0097BA;
+    cursor: pointer;
+}

@@ -1,0 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Inter', sans-serif;
+    background-image: repeating-linear-gradient(#040C0E, #074E5F, #0097BA);
+}
