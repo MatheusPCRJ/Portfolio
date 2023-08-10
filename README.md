@@ -13,15 +13,15 @@
 
 <h2 id="sobre">Sobre <img width="40px" src="https://github.com/MatheusPCRJ/Readme/assets/112782424/bcf36eeb-6685-4773-bda9-b4f2461081ae"></h2>
 
-Montando meu Portfólio para apresentação do que estou estudando no momento, seja acadêmico ou cursos como complementações, desde até projetos <br>
-pequenos para treinar bastante, ficarei agradecido pela sua visita e eternamento grato se puder dá um feedback! <br>
+Montando meu Portfólio para apresentação do que estou estudando no momento, seja acadêmico ou cursos como complementações, desde até projetos
+pequenos para treinar bastante. Ficarei agradecido pela sua visita e eternamento grato se puder dá um feedback! <br>
 Obrigado.
-
+Para dá um Feedback você pode acessar minhas redes sociais e mandar uma mensagem 😉
 <br>
 
 <h2 id="extras">Extras <img width="40px" src="https://github.com/MatheusPCRJ/Readme/assets/112782424/04392b0e-cc38-4b15-ab1c-572f07cb8ca0"></h2>
 <!-- ✔️ -->
-  - Implementação do Javascript no card na página Projetos. ❌
+  - Implementação do Javascript no card na página Projetos. ❌ <br>
   - Deixar o site mais vivo, seta pulando, dá mais animações. ❌
 
 <br>
