@@ -3,7 +3,7 @@
   position: relative;
   width: 1800px;
   margin: 0 auto;
-  padding: 5rem 0;
+  padding-top: 5rem;
 }
 
 .secao2__containerApresentacao {
@@ -41,4 +41,12 @@
   justify-content: space-around;
   width: 10rem;
   padding-top: 1rem;
+}
+
+.secao2__imagens {
+  display: flex;
+  justify-content: space-between;
+  height: calc(100vh - 581px);
+  align-items: flex-end;
+  padding-bottom: .5rem;
 }
