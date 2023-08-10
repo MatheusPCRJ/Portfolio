@@ -1,0 +1,7 @@
+.secao2__containerSobre {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1700px;
+    justify-content: center;
+    align-items: flex-end;
+}

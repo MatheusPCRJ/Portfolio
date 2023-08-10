@@ -1,0 +1,20 @@
+.secao2__button__saberMais {
+  border-radius: 21px;
+  border: 2px solid #02791c;
+  width: 170.959px;
+  height: 54.123px;
+  text-decoration: none;
+
+  color: #989898;
+  font-family: Open Sans;
+  font-size: 24px;
+  font-weight: 700;
+  padding: .6rem;
+  transition: .7s all;
+  text-align: center;
+}
+
+.secao2__button__saberMais:hover {
+    color: #FFF;
+    border-color: #00ff37b9;
+}
