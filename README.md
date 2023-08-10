@@ -13,13 +13,16 @@
 
 <h2 id="sobre">Sobre <img width="40px" src="https://github.com/MatheusPCRJ/Readme/assets/112782424/bcf36eeb-6685-4773-bda9-b4f2461081ae"></h2>
 
-Lorem.
+Montando meu Portfólio para apresentação do que estou estudando no momento, seja acadêmico ou cursos como complementações, desde até projetos <br>
+pequenos para treinar bastante, ficarei agradecido pela sua visita e eternamento grato se puder dá um feedback! <br>
+Obrigado.
 
 <br>
 
 <h2 id="extras">Extras <img width="40px" src="https://github.com/MatheusPCRJ/Readme/assets/112782424/04392b0e-cc38-4b15-ab1c-572f07cb8ca0"></h2>
-
-  - Lorem. ✔️
+<!-- ✔️ -->
+  - Implementação do Javascript no card na página Projetos. ❌
+  - Deixar o site mais vivo, seta pulando, dá mais animações. ❌
 
 <br>
 
@@ -40,7 +43,7 @@ Lorem.
 
 <br><br>
 
-Link do projeto <a href="">AQUI<a>
+Link do projeto <a href="https://portfolio-dev-matheus.vercel.app/">AQUI<a>
 
 
 <br>
@@ -48,9 +51,9 @@ Link do projeto <a href="">AQUI<a>
 
 <h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto. <img width="40px" src="https://github.com/MatheusPCRJ/Readme/assets/112782424/850f5d3c-20a0-421d-a10f-a5ca7dc2e45b"></h2>
 
-  - [x] ?
-  - [x] ?
-  - [x] ?
+  - [x] HTML
+  - [x] CSS
+  - [x] Javascript
 <br>
 
 <div id="autor" align="center">
