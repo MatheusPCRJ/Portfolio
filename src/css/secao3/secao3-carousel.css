@@ -1,0 +1,7 @@
+.secao3__carousel {
+    display: flex;
+    gap: 0.5rem;
+
+    transform: translateX(0);
+    transition: transform 1s ease-in-out;
+}

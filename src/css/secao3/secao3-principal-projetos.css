@@ -1,0 +1,10 @@
+.secao3__principal__projetos {
+    display: flex;
+    margin-bottom: 1rem;
+    align-items: center;
+}
+
+.secao3__principal__projetos-lateral {
+    justify-content: flex-start;
+    flex-direction: row-reverse;
+}

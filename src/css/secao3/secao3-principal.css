@@ -1,0 +1,6 @@
+.secao3__principal {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 6rem;
+}

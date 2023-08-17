@@ -19,7 +19,16 @@
   <link rel="stylesheet" href="src/css/secao2/secao2.css">
   <link rel="stylesheet" href="src/css/secao2/secao2-containerSobre.css">
   <link rel="stylesheet" href="src/css/secao2/button-saber-mais.css">
-  
+  <link rel="stylesheet" href="src/css/secao3/secao3.css">
+  <link rel="stylesheet" href="src/css/secao3/secao3-containercarousel.css">
+  <link rel="stylesheet" href="src/css/secao3/secao3-imagens-carroussel.css">
+  <link rel="stylesheet" href="src/css/secao3/secao3-carousel-projetos.css">
+  <link rel="stylesheet" href="src/css/secao3/secao3-carousel.css">
+  <link rel="stylesheet" href="src/css/secao3/secao3-titulo.css">
+  <link rel="stylesheet" href="src/css/secao3/secao3-principal-projetos.css">
+  <link rel="stylesheet" href="src/css/secao3/secao3-imagem.css">
+  <link rel="stylesheet" href="src/css/secao3/secao3-principal.css">
+
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" rel="stylesheet">
 </head>
 
@@ -27,11 +36,11 @@
   <header class="header">
     <img src="src/img/frase-lets-build.svg" alt="frase-lets-build">
     <nav class="nav">
-      <li class="nav__titulos">sobre</li>
-      <li class="nav__titulos">projetos</li>
-      <li class="nav__titulos">formação</li>
-      <li class="nav__titulos">hobbies</li>
-      <li class="nav__titulos">contato</li>
+      <a href="#sobre"><li class="nav__titulos">sobre</li></a>
+      <a href="#projetos"><li class="nav__titulos">projetos</li></a>
+      <a href="#formação"><li class="nav__titulos">formação</li></a>
+      <a href="#hobbies"><li class="nav__titulos">hobbies</li></a>
+      <a href="#contato"><li class="nav__titulos">contato</li></a>
     </nav>
   </header>
 
@@ -53,7 +62,7 @@
       </div>
     </section>
 
-    <section class="secao2">
+    <section class="secao2" id="sobre">
       <div class="secao2__containerSobre">
         <div class="secao2__containerApresentacao">
           <h2 class="secao2__titulo">Olá, meu nome é Matheus e tenho 26 anos.</h2>
@@ -86,10 +95,140 @@
         <img src="src/img/quadrado.svg" alt="Imagem de um quadrado">
         <img src="src/img/seta.svg" alt="Imagem de uma seta">
         <img src="src/img/astronauta.svg" alt="Desenho astronauta">
+      </div>
+    </section>
+    <section class="secao3" id="projetos">
 
+      <div class="secao3__containercarousel">
+        <h2 class="secao3__titulo">Projetos</h2>
+        <div class="secao3__carousel" id="container-carousel">
+
+          <div class="secao3__carousel__projetos" data-stop-carousel>
+            <img src="src/img/aluraCEP.png" alt="" class="secao3__imagens__carroussel" data-carousel-imgs>
+            <div class="repo">
+              <a href="https://github.com/MatheusPCRJ/API-Via-CEP">Repositório</a>
+              <a href="https://busca-cep-six-taupe.vercel.app/">Site</a>
+            </div>
+          </div>
+
+          <div class="secao3__carousel__projetos">
+            <img src="src/img/aluraCEP.png" alt="" class="secao3__imagens__carroussel" data-carousel-imgs>
+            <div class="repo">
+              <a href="https://github.com/MatheusPCRJ/API-Via-CEP">Repositório</a>
+              <a href="https://busca-cep-six-taupe.vercel.app/">Site</a>
+            </div>
+          </div>
+
+          <div class="secao3__carousel__projetos">
+            <img src="src/img/aluraCEP.png" alt="" class="secao3__imagens__carroussel" data-carousel-imgs>
+            <div class="repo">
+              <a href="https://github.com/MatheusPCRJ/API-Via-CEP">Repositório</a>
+              <a href="https://busca-cep-six-taupe.vercel.app/">Site</a>
+            </div>
+          </div>
+
+          <div class="secao3__carousel__projetos">
+            <img
+              src="https://img.freepik.com/fotos-gratis/cores-vibrantes-fluem-em-padrao-de-onda-abstrato-gerado-por-ia_188544-9781.jpg?w=360"
+              alt="" class="secao3__imagens__carroussel" data-carousel-imgs>
+            <div class="repo">
+              <a href="https://github.com/MatheusPCRJ/API-Via-CEP">Repositório</a>
+              <a href="https://busca-cep-six-taupe.vercel.app/">Site</a>
+            </div>
+          </div>
+
+          <div class="secao3__carousel__projetos">
+            <img
+              src="https://s2-techtudo.glbimg.com/Bxr-QA4_gL25CarCCxr9JQFybt8=/0x0:1024x609/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/c/u/15eppqSmeTdHkoAKM0Uw/dall-e-2.jpg"
+              alt="" class="secao3__imagens__carroussel" data-carousel-imgs>
+            <div class="repo">
+              <a href="https://github.com/MatheusPCRJ/API-Via-CEP">Repositório</a>
+              <a href="https://busca-cep-six-taupe.vercel.app/">Site</a>
+            </div>
+          </div>
+          <div class="secao3__carousel__projetos">
+            <img
+              src="https://s2-techtudo.glbimg.com/Bxr-QA4_gL25CarCCxr9JQFybt8=/0x0:1024x609/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/c/u/15eppqSmeTdHkoAKM0Uw/dall-e-2.jpg"
+              alt="" class="secao3__imagens__carroussel" data-carousel-imgs>
+            <div class="repo">
+              <a href="https://github.com/MatheusPCRJ/API-Via-CEP">Repositório</a>
+              <a href="https://busca-cep-six-taupe.vercel.app/">Site</a>
+            </div>
+          </div>
+          <div class="secao3__carousel__projetos">
+            <img
+              src="https://s2-techtudo.glbimg.com/Bxr-QA4_gL25CarCCxr9JQFybt8=/0x0:1024x609/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/c/u/15eppqSmeTdHkoAKM0Uw/dall-e-2.jpg"
+              alt="" class="secao3__imagens__carroussel" data-carousel-imgs>
+            <div class="repo">
+              <a href="https://github.com/MatheusPCRJ/API-Via-CEP">Repositório</a>
+              <a href="https://busca-cep-six-taupe.vercel.app/">Site</a>
+            </div>
+          </div>
+          <div class="secao3__carousel__projetos">
+            <img
+              src="https://s2-techtudo.glbimg.com/Bxr-QA4_gL25CarCCxr9JQFybt8=/0x0:1024x609/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/c/u/15eppqSmeTdHkoAKM0Uw/dall-e-2.jpg"
+              alt="" class="secao3__imagens__carroussel" data-carousel-imgs>
+            <div class="repo">
+              <a href="https://github.com/MatheusPCRJ/API-Via-CEP">Repositório</a>
+              <a href="https://busca-cep-six-taupe.vercel.app/">Site</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="secao3__principal">
+        <div class="secao3__principal__projetos">
+          <img src="src/img/adivinhacao.png" alt="" class="secao3__imagem">
+          <div>
+            <p>Jogo de adivinhação</p>
+            <a href="https://game-de-adivinhacao.vercel.app/">Site</a>
+            <a href="https://github.com/MatheusPCRJ/Game_de_Adivinhacao">Repositório</a>
+          </div>
+        </div>
+        <div class="secao3__principal__projetos secao3__principal__projetos-lateral">
+          <img src="src/img/codificacao.png" alt="" class="secao3__imagem">
+          <div>
+            <p>Um codificador de mensagens</p>
+            <a href="https://trabalho-indivudual-codificacao.vercel.app/">Site</a>
+            <a href="https://github.com/MatheusPCRJ/Trabalho-Indivudual---Codifica-o">Repositório</a>
+          </div>
+        </div>
+        <div class="secao3__principal__projetos">
+          <img src="src/img/frontWindows.png" alt="" class="secao3__imagem">
+          <div>
+            <p>The FrontWindows, um site para estudos</p>
+            <a href="https://the-frontenders.vercel.app/">Site</a>
+            <a href="https://github.com/MatheusPCRJ/The-FrontEnders">Repositório</a>
+          </div>
+        </div>
+        <div class="secao3__principal__projetos secao3__principal__projetos-lateral">
+          <img src="src/img/desafioPrompt.png" alt="" class="secao3__imagem">
+          <div>
+            <p>Desafio Prompt</p>
+            <a href="https://campinho-desafio-prompt.vercel.app/">Site</a>
+            <a href="https://github.com/MatheusPCRJ/Campinho_desafio_Prompt">Repositório</a>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <div>
+          <p>Projetos feitos e desenvolvidos por mim</p>
+          <a href="#" class="secao2__button__saberMais">Saber mais</a>
+        </div>
+        <div>
+          <p>Projetos feitos e desenvolvidos com plataformas de cursos</p>
+          <a href="#" class="secao2__button__saberMais">Saber mais</a>
+        </div>
+        <div>
+          <p>Projetos feito e desenvolvido em grupo</p>
+          <a href="#" class="secao2__button__saberMais">Saber mais</a>
+        </div>
       </div>
     </section>
   </main>
+
+  <script src="src/js/carousel.js"></script>
 </body>
 
 </html>

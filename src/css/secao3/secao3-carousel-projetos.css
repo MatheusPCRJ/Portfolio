@@ -1,0 +1,5 @@
+.secao3__carousel__projetos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
